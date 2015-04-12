@@ -6,7 +6,7 @@ Summary:	Library for handling OpenType Font (OTF)
 Summary(pl.UTF-8):	Biblioteka do obsługi fontów OpenType (OTF)
 Name:		libotf
 Version:	0.9.12
-Release:	2
+Release:	3
 License:	LGPL v2.1+
 Group:		Libraries
 Source0:	http://www.m17n.org/libotf/%{name}-%{version}.tar.gz
