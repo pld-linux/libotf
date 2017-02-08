@@ -5,12 +5,12 @@
 Summary:	Library for handling OpenType Font (OTF)
 Summary(pl.UTF-8):	Biblioteka do obsługi fontów OpenType (OTF)
 Name:		libotf
-Version:	0.9.12
-Release:	3
+Version:	0.9.13
+Release:	1
 License:	LGPL v2.1+
 Group:		Libraries
-Source0:	http://www.m17n.org/libotf/%{name}-%{version}.tar.gz
-# Source0-md5:	630a0556af3be60360e8a75e59561eda
+Source0:	http://download.savannah.gnu.org/releases/m17n/%{name}-%{version}.tar.gz
+# Source0-md5:	99ca3857016e0bb8944776cfa16e6b2d
 URL:		http://www.m17n.org/libotf/
 BuildRequires:	freetype-devel >= 2
 BuildRequires:	xorg-lib-libX11-devel
